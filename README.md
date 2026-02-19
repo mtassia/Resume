@@ -1,3 +1,16 @@
 # MICHAEL G. TASSIA
-### Contact information:
-Email: mtassia1@jhu.edu
+Computational biology | Data science
+
+## Overview
+As a computational biologist with 10+ years of experience in genetics, bioinformatics, and statistical learning, I am eager to contribute my expertise to support research of genetic variation and its impact on human health. Over the course of my career, I have applied the principles of statistical learning, evolutionary theory, and computer science to study genetic variation at the scales of species, populations, and within individuals -- providing insight into the mechanisms through which genetic information shapes traits.
+
+In my current position as a postdoctoral fellow at Johns Hopkins University, my research lies at the intersection of human genetics, hematology, and oncology. The primary focus of my work is to quantify the mechanisms through which heritable telomere biology disorders (TBDs) influence cancer risk, particularly in the context of the blood. This research leverages the principles of human genetics and computational biology to analyze whole genome sequence data collected from individuals with TBD. Coupling these data with electronic health records, I have developed innovative methodology and statistical techniques to study the evolutionary origin(s) of clonal expansion, thus informing the timing and severity of cancer precursors across a distribution of genetic backgrounds. In addition to providing fine-grained insight into the mechanisms through which heritable genetic variation influences cancer risk, my work is a close collaboration between scientists and clinicials -- thus guiding clinical decision-making and catalyzing future translational research. *Continuing in my career as a computational biologist, I aim to contribute my expertise to support innovative genetic research in the context of human health.* 
+
+Beyond the primary research focus of my postdoctoral fellowship, I have developed an exceptional skillset for study design, analysis, and communication of DNA/RNA sequence information across a distribution of subjects and data structures. To date, *I have authored 16 scientific publications, 6 awarded grants, and 18 talks at academic conferences.* My current research is supported by two competative fellowships (The American Society of Hematology Scholar Award and an NIH T32 in Hematology) and was recently awarded a 2025 American Society of Hematology Abstract Achievement Award. In addition to expertise in the analysis of short-read whole-genome sequence data, I am also experienced with Sanger sequence data, RNAseq, long-read sequencing technologies (e.g. PacBio \& ONT), and genotype array data, *underscoring my flexibility as a bioinformatician to support genetic research across sequencing contexts*.  
+
+## Contact information
+Please feel free to reach out to me via email ([michaeltassia@gmail.com](michaeltassia@gmail.com)) or [LinkedIn](https://www.linkedin.com/in/michaeltassia/).
+
+## Resources
+- [Resume](Resume.pdf)
+- [Google scholar](https://scholar.google.com/citations?hl=en&user=dmBl40wAAAAJ&view_op=list_works&gmla=AF9nlQt8gNc1KIW0pevlKkmrqigA9wroz1FWoxI9qdYKruHNC0RkozmGhiCytxE5wEqU71doj9wZwpI2KLxuR2By)
